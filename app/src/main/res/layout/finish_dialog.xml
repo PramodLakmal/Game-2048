@@ -31,7 +31,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="Game Over"
+                android:text="@string/game_over"
                 android:textColor="@color/black"
                 android:textSize="32sp"
                 android:textStyle="bold" />
@@ -62,7 +62,7 @@
                     android:layout_marginEnd="20dp"
                     android:layout_weight="1"
                     android:backgroundTint="#f69564"
-                    android:text="Home"
+                    android:text="@string/home"
                     android:textColor="@color/white"
                     android:textStyle="bold" />
 
@@ -76,7 +76,7 @@
                     android:layout_marginTop="20dp"
                     android:layout_marginEnd="20dp"
                     android:layout_weight="1"
-                    android:text="Play"
+                    android:text="@string/play"
                     android:textColor="@color/white"
                     android:textStyle="bold" />
 

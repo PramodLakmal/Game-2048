@@ -2,4 +2,20 @@
     <string name="app_name">2048 Game</string>
     <string name="dialog_quit_game">Would you to like leave ?</string>
     <string name="tv_win_dialog">It took you %1$s moves</string>
+    <string name="about_game">About Game</string>
+    <string name="this_application_was_created_by_pramod_lakmal_faculty_of_computing_sliit">This application was created by Pramod Lakmal, Faculty of Computing, SLIIT</string>
+    <string name="ok">Ok</string>
+    <string name="_2048">2048</string>
+    <string name="_0">0</string>
+    <string name="score">Score</string>
+    <string name="_516">516</string>
+    <string name="record">Record</string>
+    <string name="_576">576</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="game_over">Game Over</string>
+    <string name="home">Home</string>
+    <string name="play">Play</string>
+    <string name="classic_4x4">Classic(4x4)</string>
+    <string name="start_game">Start Game</string>
 </resources>

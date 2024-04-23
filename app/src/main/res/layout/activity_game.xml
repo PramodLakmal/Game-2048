@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20sp"
         android:layout_marginTop="40dp"
-        android:text="2048"
+        android:text="@string/_2048"
         android:textColor="#81725D"
         android:textSize="30sp"
         android:textStyle="bold"
@@ -43,58 +43,25 @@
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
-                android:textSize="33sp"
-                tools:text="3" />
-
-
-        </LinearLayout>
-
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1">
-
-            <TextView
-                style="@style/PlayButton"
-                android:text="0"
-                android:textSize="33sp"
-                tools:text="3" />
-
-            <TextView
-                style="@style/PlayButton"
-                android:text="0"
-                android:textSize="33sp"
-                tools:text="3" />
-
-            <TextView
-                style="@style/PlayButton"
-                android:text="0"
-                android:textSize="33sp"
-                tools:text="3" />
-
-            <TextView
-                style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
@@ -109,25 +76,25 @@
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
@@ -142,25 +109,58 @@
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
+                android:textSize="33sp"
+                tools:text="3" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                style="@style/PlayButton"
+                android:text="@string/_0"
+                android:textSize="33sp"
+                tools:text="3" />
+
+            <TextView
+                style="@style/PlayButton"
+                android:text="@string/_0"
+                android:textSize="33sp"
+                tools:text="3" />
+
+            <TextView
+                style="@style/PlayButton"
+                android:text="@string/_0"
+                android:textSize="33sp"
+                tools:text="3" />
+
+            <TextView
+                style="@style/PlayButton"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
@@ -187,7 +187,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="10dp"
-            android:text="Score"
+            android:text="@string/score"
 
             android:textColor="#D1CCC7"
             android:textSize="20sp"
@@ -200,7 +200,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
-            android:text="516"
+            android:text="@string/_516"
             android:textColor="@color/white"
             android:textSize="22sp"
             android:textStyle="bold" />
@@ -223,7 +223,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="10dp"
-            android:text="Record"
+            android:text="@string/record"
 
             android:textColor="#D1CCC7"
             android:textSize="20sp"
@@ -236,7 +236,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
-            android:text="576"
+            android:text="@string/_576"
             android:textColor="@color/white"
             android:textSize="22sp"
             android:textStyle="bold" />

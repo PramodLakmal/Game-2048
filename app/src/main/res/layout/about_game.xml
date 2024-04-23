@@ -30,7 +30,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="About Game"
+                android:text="@string/about_game"
                 android:textColor="@color/black"
                 android:textSize="32sp"
                 android:textStyle="bold" />
@@ -40,7 +40,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginVertical="16sp"
-                android:text="This application was created by Pramod Lakmal, Faculty of Computing, SLIIT"
+                android:text="@string/this_application_was_created_by_pramod_lakmal_faculty_of_computing_sliit"
                 android:textAlignment="center"
                 android:textColor="@color/black"
                 android:textSize="24sp" />
@@ -62,7 +62,7 @@
                     android:layout_marginEnd="80dp"
                     android:layout_weight="1"
                     android:backgroundTint="#f45e3c"
-                    android:text="Ok"
+                    android:text="@string/ok"
                     android:textColor="@color/white"
                     android:textStyle="bold" />
 

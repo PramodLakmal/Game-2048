@@ -43,19 +43,19 @@
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
@@ -72,19 +72,19 @@
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
@@ -100,19 +100,19 @@
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
             <TextView
                 style="@style/PlayButton"
-                android:text="0"
+                android:text="@string/_0"
                 android:textSize="33sp"
                 tools:text="3" />
 
@@ -140,7 +140,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="10dp"
-            android:text="Score"
+            android:text="@string/score"
 
             android:textColor="#D1CCC7"
             android:textSize="20sp"
@@ -153,7 +153,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
-            android:text="516"
+            android:text="@string/_516"
             android:textColor="@color/white"
             android:textSize="22sp"
             android:textStyle="bold" />
@@ -176,7 +176,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="10dp"
-            android:text="Record"
+            android:text="@string/record"
 
             android:textColor="#D1CCC7"
             android:textSize="20sp"
@@ -189,7 +189,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
-            android:text="576"
+            android:text="@string/_576"
             android:textColor="@color/white"
             android:textSize="22sp"
             android:textStyle="bold" />
